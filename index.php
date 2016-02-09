@@ -12,6 +12,6 @@ $hit_count++; // increment the hit count by 1
 	<title></title>
 </head>
 <body>
-	Test Counter
+	Test Counterasda
 </body>
 </html>
